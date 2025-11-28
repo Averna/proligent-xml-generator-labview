@@ -21,8 +21,7 @@ Technologies Inc.][web-site]
 
 [web-site]: https://www.averna.com
 
-LabVIEW, NI, NI TestStand and CVI are trademarks of [National Instruments
-Corporation][ni].
+LabVIEW, is a trademark of [National Instruments Corporation][ni].
 Neither Averna Technologies Inc., nor any software programs or other goods or
 services offered by Averna Technologies Inc., are affiliated with, endorsed by,
 or sponsored by National Instruments.
