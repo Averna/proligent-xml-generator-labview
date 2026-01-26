@@ -16,7 +16,7 @@ jobs:
       image: nationalinstruments/labview:2025q3patch1-linux
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
       - name: Install VIPM
         run: |
           wget \
