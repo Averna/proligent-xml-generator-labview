@@ -19,6 +19,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Install VIPM
         run: |
+          apt-get update -y
           apt-get install -y curl
           curl \
             --fail \
